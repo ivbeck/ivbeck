@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Iven's github stats](https://github-readme-stats.vercel.app/api?username=ibveecnk&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Iven's github stats](https://github-readme-stats.vercel.app/api?username=ibveecnk&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)]()
 
 [![Ivens's github languages](https://github-readme-stats.vercel.app/api/top-langs?username=ibveecnk&count_private=true&card_width=450&show_icons=true&theme=vue-dark&layout=compact&langs_count=10
-)](https://github.com/anuraghazra/github-readme-stats)
+)]()
 <!--
 **ibveecnk/ibveecnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
