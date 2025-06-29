@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Iven+Beck;Full+Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Iven+Beck;Rust+Developer;Mobile+App+Developer;Web+Developer)
 
 </div>
 
@@ -15,7 +15,7 @@
 const iven = {
   pronouns: "He/Him",
   location: "🌍 Germany",
-  currentlyLearning: ["AI/ML", "Systems Engineering", "DevOps"],
+  currentlyLearning: ["AI/ML", "Systems Engineering"],
 };
 ```
 
@@ -34,7 +34,7 @@ const iven = {
 
 ### Core Technologies
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,cs,java,python,docker,aws,mongodb" />
+<img src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,nodejs,flutter,cs,java,python,docker,mongodb,spark" />
 
 ### Tools & Platforms
 
