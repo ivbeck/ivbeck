@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-```typescript
+```rust
 let iven = Iven {
   location: "Germany",
   currentlyLearning: ["ML", "Systems Engineering", "Distributed Systems"],
