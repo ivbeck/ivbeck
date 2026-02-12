@@ -12,10 +12,9 @@
 ## 🚀 About Me
 
 ```typescript
-const iven = {
-  pronouns: "He/Him",
-  location: "🌍 Germany",
-  currentlyLearning: ["AI/ML", "Systems Engineering"],
+let iven = Iven {
+  location: "Germany",
+  currentlyLearning: ["ML", "Systems Engineering", "Distributed Systems"],
 };
 ```
 
