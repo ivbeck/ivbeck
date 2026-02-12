@@ -14,7 +14,7 @@
 ```rust
 let iven = Iven {
   location: "Germany",
-  currentlyLearning: ["ML", "Systems Engineering", "Distributed Systems"],
+  currentlyLearning: vec!["ML", "Systems Engineering", "Distributed Systems"],
 };
 ```
 
